@@ -2,5 +2,11 @@ body
 {   
     color: deeppink;
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial;
+    background-color: rgb(44, 44, 44);
+}
+#bienvenida{
+    font-family: Georgia;
+    color: burlywood;
+    font-size: medium;
 }
